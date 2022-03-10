@@ -27,7 +27,7 @@
 
 | ID | Low Level Requirements |
 | -------- | -------------- |
-| HLR1_LLR1.1 | While pressing __Button__ all led's shall be on along with locking of doors | 
-| HLR2_LLR2.1 | While pressing __Button__ all led's shall be off along with unlocking of doors |
-| HLR3_LLR3.1 | While pressing __Button__ all led's shall be on in clockwise manner along with activation of alaram |
-| HLR4_LLR4.1 | While pressing __Button__ all led's shall be off in anti-clockwise manner |
+| HLR1_LLR1 | While pressing __Button__ all led's shall be on along with locking of doors | 
+| HLR2_LLR2 | While pressing __Button__ all led's shall be off along with unlocking of doors |
+| HLR3_LLR3 | While pressing __Button__ all led's shall be on in clockwise manner along with activation of alaram |
+| HLR4_LLR4| While pressing __Button__ all led's shall be off in anti-clockwise manner |
