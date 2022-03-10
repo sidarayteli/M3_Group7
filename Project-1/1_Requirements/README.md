@@ -1,9 +1,7 @@
-1. About RKE
+# 1. About RKE
 
 ## 1.1 Description
-* Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.
-	It operates by broadcasting radio waves on a particular frequency unidirectionally. And has features like alaram activation/deactivation,
- Led activation/deactivation in case any person/things which touches the car.
+* Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.It operates by broadcasting radio waves on a particular frequency 	      unidirectionally. And has features like alaram activation/deactivation, Led activation/deactivation in case any person/things which touches the car.
 
 ---
 ## 1.2 What all features car can have
@@ -14,3 +12,4 @@
 ---
 
  ## 1.3 5W's 1H
+![image](https://user-images.githubusercontent.com/46900710/157737136-420bc3c4-c721-489c-8923-df25538f1fb9.png)
