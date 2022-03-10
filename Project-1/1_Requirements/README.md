@@ -18,7 +18,7 @@
 ## 2.1 High Level Requirements
 | ID | High Level Requirements |
 | -------- | -------------- |
-| HLR1 | Car doors locking shall be done using wireless remote button device | 
-| HLR2 | Car doors unlocking shall be done using wireless remote button device |
+| HLR1 | Car doors locking shall be done using wireless device | 
+| HLR2 | Car doors unlocking shall be done using wireless device |
 | HLR3 | Device shall be provided with wireless alarm activation and deactivation |
 | HLR4 | Device shall be provided with wireless light activation and deactivation |
