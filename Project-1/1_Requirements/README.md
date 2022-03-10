@@ -14,6 +14,8 @@
  ## 1.3 5W's and 1H
 ![5w1h](https://user-images.githubusercontent.com/46900710/157737280-2c2ee9a5-a800-40fc-b3e6-fa47862f5b7b.JPG)
 
+## Swot Analysis
+
 # 2 Requirements
 ## 2.1 High Level Requirements
 | ID | High Level Requirements |
