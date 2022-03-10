@@ -14,7 +14,7 @@
 
 |Test ID | Description | Input | Expected Output | Actual Output | Status|
 | -------- | ------------- | ---------------------- | -------------- | ---------- | -------------- |
-| LLR1 | Car doors locking shall be done using wireless device| User button press | Car doors locked | Car doors locked | Implemented |
-| LLR2 | Car doors unlocking shall be done using wireless device | User button press | Car doors unlocked | Car doors unlocked | Implemented |
-| LLR3 | Device shall be provided with wireless Alarm activation and Deactivation | User button press | Alarm activated/deactivated | Alarm activated/deactivated | Implemented |
-| LLR4 | Device shall be provided with wireless light activation and Deactivation | User button press | Approach lights on | Approach lights on | Implemented |
+| HLR1_LLR1 | Car doors locking shall be done using wireless device| User button press | Car doors locked | Car doors locked | Implemented |
+| HLR2_LLR2c| Car doors unlocking shall be done using wireless device | User button press | Car doors unlocked | Car doors unlocked | Implemented |
+| HLR3_LLR3 | Device shall be provided with wireless Alarm activation and Deactivation | User button press | Alarm activated/deactivated | Alarm activated/deactivated | Implemented |
+| HLR4_LLR4 | Device shall be provided with wireless light activation and Deactivation | User button press | Approach lights on | Approach lights on | Implemented |
