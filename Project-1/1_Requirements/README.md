@@ -20,5 +20,5 @@
 | -------- | -------------- |
 | HLR1 | Car doors locking shall be done using wireless remote button device | 
 | HLR2 | Car doors unlocking shall be done using wireless remote button device |
-| HLR3 | Device shall be provided with wireless Alarm activation and Deactivation |
-| HLR4 | Device shall be provided with wireless light activation and Deactivation |
+| HLR3 | Device shall be provided with wireless alarm activation and deactivation |
+| HLR4 | Device shall be provided with wireless light activation and deactivation |
