@@ -1,4 +1,6 @@
-# High Level Requirements Status Table
+# 1 High Level Requirements Test Plan
+---
+
 |Test ID | Description | Input | Expected Output | Actual Output | Car doors locked |
 | -------- | -------------- |
 | HLR1 | Car doors locking shall be done using wireless device| User button press | Car doors locked | Car doors locked |
