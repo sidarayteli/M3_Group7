@@ -26,3 +26,15 @@ range and reliability.
  * It shall display alarm satus of car Two User Button Clicks
  * It shall display battery information of car for Three User Button Clicks
  * It shall display door satus of car for Four User Button Clicks
+
+
+## Requirements
+
+Highlevel requirements
+|ID|description|
+|---|----------|
+|HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
+|HLR_2|Alarm status shall be displayed (Activate or deactivate)|
+|HLR_3|Car battery status information shall be displayed (Weather the Battery is Full or not)|
+|HLR_4|Door status shall be displayed (Open or closed)|
+|HLR_5|System shall be bidirectional RKE (Bi-Com)|
