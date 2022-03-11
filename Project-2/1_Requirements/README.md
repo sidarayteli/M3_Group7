@@ -21,7 +21,7 @@ challenges, which are low power consumption, Bi-Com Transmitter, Receiver
 range and reliability.
 
 
-## features
+## Features
  * It shall display window satus of car for one User Button Click
  * It shall display alarm satus of car Two User Button Clicks
  * It shall display battery information of car for Three User Button Clicks
@@ -30,7 +30,7 @@ range and reliability.
 
 ## Requirements
 
-Highlevel requirements
+## Highlevel requirements
 |ID|Description|
 |---|----------|
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
@@ -39,7 +39,7 @@ Highlevel requirements
 |HLR_4|Door status shall be displayed (Open or closed)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
 
-Lowlevel requirements
+## Lowlevel requirements
 |ID|Description|
 |---|----------|
 |LLR_1|When button is pressed one’s, all led shall turn ON at same time|
