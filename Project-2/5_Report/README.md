@@ -4,27 +4,28 @@
 
 1_Description
 
-* [1.1 Abstract](#abstract)
-* [1.2 Features](#features)
-* [1.3 SWOT Analysis](#swot-analysis)
-* [1.4 5W 1H](#5w-1h)
+* [1.1 Abstract](#11-abstract)
+* [1.2 Description](#12-description)
+* [1.3 Features](#13-features)
+* [1.4 SWOT Analysis](#14-swot-analysis)
+* [1.5 5W 1H](#15-5w-1h)
 
 2_Requirements
 
-* [2.1 Highlevel requirements](#highlevel-requirements)
-* [2.2 Lowlevel requirements](#lowlevel-requirements)
+* [2.1 Highlevel requirements](#21-highlevel-requirements)
+* [2.2 Lowlevel requirements](#22-lowlevel-requirements)
 
 
 3. Architectures
 
- * [3.1 Usecase Diagram](#usecase-diagram)
- * [3.2 Flow-Chart](#flowchart)
- * [3.3 Low level requirements flow-chart](#lowlevel-requirement-flowchart)
+ * [3.1 Usecase Diagram](#31-usecase-diagram)
+ * [3.2 Flow-Chart](#32-flowchart)
+ * [3.3 Low level requirements flow-chart](#33-lowlevel-requirement-flowchart)
 
 4. Test plans
 
- * [4.1 High level test plan](#highlevel-testplan)
- * [4.2 Low level test plan](#lowlevel-testplan)
+ * [4.1 High level test plan](#41-highlevel-testplan)
+ * [4.2 Low level test plan](#42-lowlevel-testplan)
 
 
 
@@ -34,10 +35,12 @@
 
 
 
-## Abstract
+## 1.1 Abstract
 Over 70% of the vehicle made today come with a Bi-Com system which
 is the extinction of the unidirectional RKE to bidirectional RKE (Remote
 Keyless Entry) system either standard or as an option.
+
+## 1.2 Description
 Bi-Com System is Bidirectional RKE system which consists of
 transmitter (Key-fob) and receiver (Car) include some functions. By using these
 functions, we can check the car status information. The most used frequency for
@@ -54,7 +57,7 @@ challenges, which are low power consumption, Bi-Com Transmitter, Receiver
 range and reliability.
 
 
-## Features
+## 1.3 Features
  * It shall display window satus of car for one User Button Click
  * It shall display alarm satus of car Two User Button Clicks
  * It shall display battery information of car for Three User Button Clicks
@@ -63,17 +66,17 @@ range and reliability.
 
 
 
-## SWOT Analysis 
+## 1.4 SWOT Analysis 
 ![SWOT_Bicom](https://user-images.githubusercontent.com/46900710/157823346-22f82eb1-e2c2-4ecb-a66d-7708bdf6b353.png)
 
 
-## 5W 1H
+## 1.5 5W 1H
 ![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
 
 
 ## Requirements
 
-## Highlevel requirements
+## 2.1 Highlevel requirements
 |ID|Description|
 |---|----------|
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
@@ -82,7 +85,7 @@ range and reliability.
 |HLR_4|Door status shall be displayed (Open or closed)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
 
-## Lowlevel requirements
+## 2.2 Lowlevel requirements
 |ID|Description|
 |---|----------|
 |LLR_1|When button is pressed one’s, all led shall turn ON at same time|
@@ -93,14 +96,14 @@ range and reliability.
 
 
 
-## Usecase Diagram
+## 3.1 Usecase Diagram
 
 ![USECASE Diagram](https://user-images.githubusercontent.com/98537406/157825453-14ea90bf-eecf-4857-98bd-257a2d0466ee.png)
 
-## Flowchart
+## 3.2 Flowchart
 ![image](https://user-images.githubusercontent.com/46954351/157822868-66c2d48f-1f7f-41a1-ad91-42a663e71630.png)
 
-## lowlevel requirement flowchart
+## 3.3 lowlevel requirement flowchart
 ![image](https://user-images.githubusercontent.com/46954351/157823212-556a7626-5785-4e41-8360-c281bedb4c24.png)
 
 
@@ -109,7 +112,7 @@ range and reliability.
 
 ## Testplan and Output
 
-## Highlevel Testplan
+## 4.1 Highlevel Testplan
 
 |TEST ID|DESCRIPTION|Input|Expected Output|Actual Output|Status|
 |-------|-----------|------|---------------|------------|------|
@@ -119,7 +122,7 @@ range and reliability.
 |HLT_4|Door status displayed|User button press|Door status (open or close)|Door status (open or close)|
 
 
-## Lowlevel Testplan
+## 4.2 Lowlevel Testplan
 |TEST ID|DESCRIPTION|Input|Expected Output|Actual Output|Status|
 |-------|-----------|------|---------------|------------|------|
 |LLT_1|Window Status|User button press one’s|All LED turn ON|All LED turn ON|
