@@ -30,3 +30,11 @@
 |HLR2_LLR2 |When button is pressed twice, all led shall turn OFF at same time.|
 |HLR3_LLR3 |When button is pressed three times, all led shall turn ON in clockwise direction.|
 |HLR4_LLR4 |When button is pressed four times, all led shall turn ON in anti-clockwise direction.|
+
+# SWOT ANALYSIS:
+
+![SWOT_Bicom](https://user-images.githubusercontent.com/98537406/157817632-fe31fdee-c674-4802-b781-013b081b4bbb.png)
+
+# 5W_1H:
+
+![5W_1H](https://user-images.githubusercontent.com/98537406/157821188-9584af90-f8c7-4641-a2c0-088939d46766.png)
