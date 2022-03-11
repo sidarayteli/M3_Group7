@@ -46,3 +46,8 @@ range and reliability.
 |LLR_2|When button is pressed twice, all led shall turn OFF at same time|
 |LLR_3|When button is pressed three times, all led shall turn ON in clockwise direction|
 |LLR_4|When button is pressed four times, all led shall turn ON in anti-clockwise direction|
+
+## SWOT Analysis 
+
+
+
