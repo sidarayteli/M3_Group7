@@ -31,10 +31,18 @@ range and reliability.
 ## Requirements
 
 Highlevel requirements
-|ID|description|
+|ID|Description|
 |---|----------|
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
 |HLR_2|Alarm status shall be displayed (Activate or deactivate)|
 |HLR_3|Car battery status information shall be displayed (Weather the Battery is Full or not)|
 |HLR_4|Door status shall be displayed (Open or closed)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
+
+Lowlevel requirements
+|ID|Description|
+|---|----------|
+|LLR_1|When button is pressed one’s, all led shall turn ON at same time|
+|LLR_2|When button is pressed twice, all led shall turn OFF at same time|
+|LLR_3|When button is pressed three times, all led shall turn ON in clockwise direction|
+|LLR_4|When button is pressed four times, all led shall turn ON in anti-clockwise direction|
