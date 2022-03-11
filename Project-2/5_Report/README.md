@@ -83,7 +83,7 @@ range and reliability.
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
 |HLR_2|Alarm status shall be displayed (Activate or deactivate)|
 |HLR_3|Car battery status information shall be displayed (Weather the Battery is Full or not)|
-|HLR_4|Door status shall be displayed (Open or closed)|
+|HLR_4|Door status shall be displayed (Lock or Unlock)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
 
 ## 2.2 Lowlevel requirements
@@ -123,7 +123,7 @@ range and reliability.
 |HLT_1|Windows status shall be displayed using Key-fob (Wireless device)|User button press|Window status (Open or Close)|Window status (Open or Close)|
 |HLT_2|Alarm Status shall be displayed|User button press|Alarm status|Alarm status|
 |HLT_3|Car Battery status information|User button press|Battery status (Full or not)|Battery status (Full or not)|
-|HLT_4|Door status displayed|User button press|Door status (open or close)|Door status (open or close)|
+|HLT_4|Door status displayed|User button press|Door status (open or close)|Door status (Lock or Unlock)|
 
 
 ## 4.2 Lowlevel Testplan
