@@ -48,6 +48,7 @@ range and reliability.
 |LLR_4|When button is pressed four times, all led shall turn ON in anti-clockwise direction|
 
 ## SWOT Analysis 
+![image](https://user-images.githubusercontent.com/46954351/157818376-077e6acb-bbcc-47ae-bf26-9a552518a048.png)
 
 
 
