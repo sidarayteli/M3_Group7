@@ -140,6 +140,7 @@ range and reliability.
 
 
 
+One Car, Two Frames: Attacks on Hitag-2 Remote Keyless Entry Systems Revisited
 
 
 
