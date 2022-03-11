@@ -7,6 +7,12 @@
 * [Abstract](#abstract)
 * [Features](#features)
 * [SWOT Analysis](#swot-analysis)
+* [ 5W 1H](#5w-1h)
+
+2_Requirements
+
+* [ Highlevel requirements](#highlevel-requirements)
+*  [Lowlevel requirements](#lowlevel-requirements)
 
 
 
@@ -50,7 +56,7 @@ range and reliability.
 ![SWOT_Bicom](https://user-images.githubusercontent.com/46900710/157823346-22f82eb1-e2c2-4ecb-a66d-7708bdf6b353.png)
 
 
-## 5W's and 1H
+## 5W 1H
 ![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
 
 
