@@ -32,10 +32,6 @@
 
 
 
-
-
-
-
 ## 1.1 Abstract
 Over 70% of the vehicle made today come with a Bi-Com system which
 is the extinction of the unidirectional RKE to bidirectional RKE (Remote
