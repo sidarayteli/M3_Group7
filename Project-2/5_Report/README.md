@@ -14,9 +14,17 @@
 * [ Highlevel requirements](#highlevel-requirements)
 *  [Lowlevel requirements](#lowlevel-requirements)
 
-3_Design
-* [Usecase Diagram](#usecase-diagram)
-* [Flowchart](#flowchart)
+
+3. Architectures
+
+ * [Usecase Diagram](#usecase-diagram)
+ * [Flow-Chart](#flowchart)\
+ * [Low level requirements flow-chart](#lowlevel-requirement-flowchart)
+
+4. Test plans
+
+ * [High level test plan](#highlevel-testplan)
+ * [Low level test plan](#lowlevel-testplan)
 
 
 
