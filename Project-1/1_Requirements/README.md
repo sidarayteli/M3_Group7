@@ -5,13 +5,11 @@
 * A remote keyless entry car kit doesn’t rely on a physical button or panel in order to get into your vehicle, but instead it has a sensor that detects your remote keyless key fob within a certain range of your vehicle. It then unlocks once you touch the door handle, but only while the key is nearby. Remote keyless entry cars also often allow for remote starting, as long as the remote key fob is within a short distance of the vehicle. Remote keyless communications are done through encrypted radio signals, and this can either be done through short range radio to a remote key fob in your pocket, or it can be hooked up to a smartphone system and can actually be controlled over cellular networks from anywhere in the world.
 
 
----
 ## 1.2 Objectives
 * It shall Lock the car once user click the remote button one time, Along with that all led on at the same time
 * It shall Unlock the car once user click the remote button two times, Along with that all led off at the same time
 * It can activate/deactivate the alarm once the user clicks remote button three times, Along with that all led on in clockwise manner
 * It shall activate approach light for Four User Button Clicks Whenever user press remote button four times that time all led on in anti-clockwise manner
----
 
  ## 1.3 5W's and 1H
 ![5w1h](https://user-images.githubusercontent.com/46900710/157737280-2c2ee9a5-a800-40fc-b3e6-fa47862f5b7b.JPG)
