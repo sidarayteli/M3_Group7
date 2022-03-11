@@ -21,7 +21,7 @@
  * [3.2 Behavioural Diagrams](#32-behavioural-diagrams)
  * [3.2.1 High Level Requirement Flowchart](#321-high-level-requirement-flowchart)
  * [3.2.2 Low Level Requirement Flowchart](#322-low-level-requirement-flowchart)
- * [3.3 Block Diagram](#323-Block-Diagramt)
+ * [3.3 Block Diagram](#33-Block-Diagramt)
  
 4_Test plans
 
