@@ -1,6 +1,6 @@
 # BiCom System
 ---
-## TABLE OF CONENTS
+## TABLE OF CONTENTS
 ---
 1_Description
 
