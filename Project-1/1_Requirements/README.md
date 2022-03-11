@@ -25,8 +25,8 @@ put swot here
 ## 2.1 High Level Requirements
 | ID | High Level Requirements |
 | -------- | -------------- |
-| HLR1 | Car doors locking shall be done using wireless device | 
-| HLR2 | Car doors unlocking shall be done using wireless device |
+| HLR1 | Car locking shall be done using wireless device | 
+| HLR2 | Car unlocking shall be done using wireless device |
 | HLR3 | Device shall be provided with wireless alarm activation and deactivation |
 | HLR4 | Device shall be provided with wireless light activation |
 
@@ -34,7 +34,7 @@ put swot here
 
 | ID | Low Level Requirements |
 | -------- | -------------- |
-| HLR1_LLR1 | While pressing __Button__ all led's shall be on along with locking of doors | 
-| HLR2_LLR2 | While pressing __Button__ all led's shall be off along with unlocking of doors |
+| HLR1_LLR1 | While pressing __Button__ all led's shall be on along with car locking | 
+| HLR2_LLR2 | While pressing __Button__ all led's shall be off along with car unlocking |
 | HLR3_LLR3 | While pressing __Button__ all led's shall be on in clockwise manner along with activation of alaram |
 | HLR4_LLR4| While pressing __Button__ all led's shall be off in anti-clockwise manner |
