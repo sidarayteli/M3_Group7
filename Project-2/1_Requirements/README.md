@@ -1,10 +1,10 @@
-## Abstract
+
+## 1.1 Abstract
 Over 70% of the vehicle made today come with a Bi-Com system which
 is the extinction of the unidirectional RKE to bidirectional RKE (Remote
 Keyless Entry) system either standard or as an option.
 
-
-## Description
+## 1.2 Description
 Bi-Com System is Bidirectional RKE system which consists of
 transmitter (Key-fob) and receiver (Car) include some functions. By using these
 functions, we can check the car status information. The most used frequency for
@@ -21,16 +21,26 @@ challenges, which are low power consumption, Bi-Com Transmitter, Receiver
 range and reliability.
 
 
-## Features
+## 1.3 Features
  * It shall display window satus of car for one User Button Click
  * It shall display alarm satus of car Two User Button Clicks
  * It shall display battery information of car for Three User Button Clicks
  * It shall display door satus of car for Four User Button Clicks
 
 
+
+
+## 1.4 SWOT Analysis 
+![SWOT_Bicom](https://user-images.githubusercontent.com/46900710/157823346-22f82eb1-e2c2-4ecb-a66d-7708bdf6b353.png)
+
+
+## 1.5 5W 1H
+![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
+
+
 ## Requirements
 
-## Highlevel requirements
+## 2.1 Highlevel requirements
 |ID|Description|
 |---|----------|
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
@@ -39,19 +49,10 @@ range and reliability.
 |HLR_4|Door status shall be displayed (Open or closed)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
 
-## Lowlevel requirements
+## 2.2 Lowlevel requirements
 |ID|Description|
 |---|----------|
 |LLR_1|When button is pressed one’s, all led shall turn ON at same time|
 |LLR_2|When button is pressed twice, all led shall turn OFF at same time|
 |LLR_3|When button is pressed three times, all led shall turn ON in clockwise direction|
 |LLR_4|When button is pressed four times, all led shall turn ON in anti-clockwise direction|
-
-## SWOT Analysis 
-![SWOT_Bicom](https://user-images.githubusercontent.com/46900710/157823346-22f82eb1-e2c2-4ecb-a66d-7708bdf6b353.png)
-
-
-## 5W's and 1H
-![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
-
-
