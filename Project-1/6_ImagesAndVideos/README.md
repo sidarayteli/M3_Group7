@@ -1,4 +1,11 @@
 
+ ## 1.3 5W's and 1H
+![5w1h](https://user-images.githubusercontent.com/46900710/157737280-2c2ee9a5-a800-40fc-b3e6-fa47862f5b7b.JPG)
+
+## Swot Analysis
+![image](https://user-images.githubusercontent.com/46954351/157859918-b541e40f-b350-4776-9f7b-7c13800b71da.png)
+
+
 
 ## 4.3 OUTPUT
 
