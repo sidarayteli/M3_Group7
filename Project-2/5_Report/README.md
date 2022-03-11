@@ -18,7 +18,7 @@
 3. Architectures
 
  * [Usecase Diagram](#usecase-diagram)
- * [Flow-Chart](#flowchart)\
+ * [Flow-Chart](#flowchart)
  * [Low level requirements flow-chart](#lowlevel-requirement-flowchart)
 
 4. Test plans
