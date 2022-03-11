@@ -19,7 +19,13 @@
 |LLT_3|Car battery status|User button press 3-times|All LED’s Turn ON clockwise.|All LED’s Turn ON clockwise|✅
 |LLT_4|Door Status|User button press 4-times|All LED’s turn ON anti-clockwise.|All LED’s turn ON anti-clockwise|✅
 
+# 4.3 OUTPUT
 
-# Video
+## output Image
+
+![OUTPUT](https://user-images.githubusercontent.com/98537406/157968154-f149a010-e15b-439f-b52e-1f38ee67f8a7.PNG)
+
+
+## video
 
 https://user-images.githubusercontent.com/98537406/157967304-d1176b2e-955f-4e1e-96ee-181df999a406.mp4
