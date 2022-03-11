@@ -21,6 +21,7 @@
  * [3.1 Usecase Diagram](#31-usecase-diagram)
  * [3.2 Flow-Chart](#32-flowchart)
  * [3.3 Low level requirements flow-chart](#33-lowlevel-requirement-flowchart)
+ * [3.4 Low level Diagram](#34-low-level-diagram)
 
 4. Test plans
 
@@ -107,6 +108,9 @@ range and reliability.
 ![image](https://user-images.githubusercontent.com/46954351/157823212-556a7626-5785-4e41-8360-c281bedb4c24.png)
 
 
+## 3.4 Low level Diagram
+
+![Lowlevel-Diagram](https://user-images.githubusercontent.com/98537406/157835193-eaf89f92-04ed-4a9b-acf7-a699c50a205e.png)
 
 
 
