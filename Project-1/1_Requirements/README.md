@@ -29,6 +29,7 @@ put swot here
 | HLR2 | Car doors unlocking shall be done using wireless device |
 | HLR3 | Device shall be provided with wireless alarm activation and deactivation |
 | HLR4 | Device shall be provided with wireless light activation |
+## 2.2 High Level Requirements
 
 | ID | Low Level Requirements |
 | -------- | -------------- |
