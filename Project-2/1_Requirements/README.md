@@ -1,3 +1,4 @@
+# About BiCom System
 
 ## 1.1 Abstract
 Over 70% of the vehicle made today come with a Bi-Com system which
