@@ -10,7 +10,7 @@
 | HLR4 | Device shall be provided with wireless light activation and Deactivation | User button press | Approach lights on | Approach lights on |  |
 
 
-## 1.2 LOW Level Requirements Test Plan
+## 1.2 Low Level Requirements Test Plan
 ---
 
 |Test ID | Description | Input | Expected Output | Actual Output | Status|
