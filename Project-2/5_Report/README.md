@@ -10,11 +10,14 @@
 * [1.4 SWOT Analysis](#14-swot-analysis)
 * [1.5 5W 1H](#15-5w-1h)
 
+---
+
 2_Requirements
 
 * [2.1 Highlevel requirements](#21-highlevel-requirements)
 * [2.2 Lowlevel requirements](#22-lowlevel-requirements)
 
+---
 
 3. Architectures
 
@@ -23,12 +26,14 @@
  * [3.3 Low level requirements flow-chart](#33-lowlevel-requirement-flowchart)
  * [3.4 Low level Diagram](#34-low-level-diagram)
 
+---
+
 4. Test plans
 
  * [4.1 High level test plan](#41-highlevel-testplan)
  * [4.2 Low level test plan](#42-lowlevel-testplan)
 
-
+---
 
 
 
@@ -70,8 +75,8 @@ range and reliability.
 ## 1.5 5W 1H
 ![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
 
-
-## Requirements
+---
+## 2 Requirements
 
 ## 2.1 Highlevel requirements
 |ID|Description|
@@ -91,7 +96,8 @@ range and reliability.
 |LLR_4|When button is pressed four times, all led shall turn ON in anti-clockwise direction|
 
 
-
+---
+## 3 Architecture
 
 ## 3.1 Usecase Diagram
 
@@ -108,9 +114,9 @@ range and reliability.
 
 ![Lowlevel-Diagram](https://user-images.githubusercontent.com/98537406/157835193-eaf89f92-04ed-4a9b-acf7-a699c50a205e.png)
 
+---
 
-
-## Testplan and Output
+## 4 Testplan and Output
 
 ## 4.1 Highlevel Testplan
 
@@ -131,6 +137,7 @@ range and reliability.
 |LLT_4|Door Status|User button press 4-times|All LED’s turn ON anti-clockwise.|All LED’s turn ON anti-clockwise|
 
 
+---
 
 
 
