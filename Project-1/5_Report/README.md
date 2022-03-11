@@ -99,7 +99,9 @@ Above figures figure a and figure b says that, The remote having many features l
 ### 3.3 Block Diagram
 
 ![block](https://user-images.githubusercontent.com/46900710/157921516-bac2bff7-2ed0-499e-9c7c-7f4281737deb.JPG)
+
 ---
+
 ## 4 Test Plan
 
 ## 4.1 Highlevel testplan 
