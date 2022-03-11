@@ -31,7 +31,7 @@
 | HLR3 | Device shall be provided with wireless alarm activation and deactivation |
 | HLR4 | Device shall be provided with wireless light activation |
 
-## 2.2 LOW Level Requirements
+## 2.2 Low Level Requirements
 
 | ID | Low Level Requirements |
 | -------- | -------------- |
