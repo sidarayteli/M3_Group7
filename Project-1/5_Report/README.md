@@ -3,9 +3,8 @@
 
 * [1.1 Abstract](#11-abstract)
 * [1.2 Objectives](#12-objectives)
-* [1.3 Features](#13-features)
-* [1.4 SWOT Analysis](#14-swot-analysis)
-* [1.5 5W 1H](#15-5w-1h)
+* [1.3 SWOT Analysis](#13-swot-analysis)
+* [1.4 5W 1H](#14-5w-1h)
 
 2_Requirements
 
@@ -13,13 +12,13 @@
 * [2.2 Lowlevel requirements](#22-lowlevel-requirements)
 
 
-3. Architectures
+3.  Design and Architectures
 
  * [3.1 Usecase Diagram](#31-usecase-diagram)
- * [3.2 Flow-Chart](#32-flowchart)
- * [3.3 Low level requirements flow-chart](#33-lowlevel-requirement-flowchart)
- * [3.4 Low level Diagram](#34-low-level-diagram)
-
+ * [3.2 Behavioural Diagrams](#32-behavioural-diagrams)
+ * [3.2.1 High Level Requirement Flowchart](#321-high-level-requirement-flowchart)
+ * [3.2.2 Low Level Requirement Flowchart](#322-low-level-requirement-flowchart)
+ 
 4. Test plans
 
  * [4.1 High level test plan](#41-highlevel-testplan)
@@ -44,18 +43,19 @@
 * It shall Unlock the car once user click the remote button two times, Along with that all led off at the same time
 * It can activate/deactivate the alarm once the user clicks remote button three times, Along with that all led on in clockwise manner
 * It shall activate approach light for Four User Button Clicks Whenever user press remote button four times that time all led on in anti-clockwise manner
----
 
- ## 1. 5W's and 1H
-![5w1h](https://user-images.githubusercontent.com/46900710/157737280-2c2ee9a5-a800-40fc-b3e6-fa47862f5b7b.JPG)
-
-## Swot Analysis
+## 1.3 SWOT Analysis
 put swot here
 
 
----
+ ## 1.4 5W 1H
+![5w1h](https://user-images.githubusercontent.com/46900710/157737280-2c2ee9a5-a800-40fc-b3e6-fa47862f5b7b.JPG)
+
+
+
+
 # 2 Requirements
-## 2.1 High Level Requirements
+## 2.1 Highlevel requirements
 | ID | High Level Requirements |
 | -------- | -------------- |
 | HLR1 | Car doors locking shall be done using wireless device | 
@@ -74,7 +74,7 @@ put swot here
 
 # 3 Design and Architecture
 ---
-## 3.1  Usecase Diagram
+## 3.1 Usecase Diagram
 
 ![usecase](https://user-images.githubusercontent.com/46900710/157756709-9a374505-7248-4ed9-a677-273292f3a44b.JPG)
 ---
@@ -83,10 +83,10 @@ put swot here
 ![hlr](https://user-images.githubusercontent.com/46900710/157750487-4167fd57-70d2-4618-be12-004a04cfe271.JPG)
                         figure a
 
-### 3.2.2 LOW Level Requirement Flowchart
+### 3.2.2 Low Level Requirement Flowchart
 ![llr](https://user-images.githubusercontent.com/46900710/157752943-9c907ccb-e97c-47ba-bcd2-27cdb8b81f50.JPG)
  figure b
 
-### * Explanation
+* Explanation
 Above figures figure a and figure b says that, The remote having many features like whenever user pressed remote button one time then all led's will be on along with locking of car doors , If user pressed remote button two times then all led's will be off along with unlocking of car doors. While pressing remote button three times then all led's shall be on in clockwise manner along with activation of alaram, If user pressed remote button four times then all led's will be off in anti-clockwise manner.
 
