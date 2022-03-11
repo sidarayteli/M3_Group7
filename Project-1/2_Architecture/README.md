@@ -14,4 +14,4 @@
  figure b
 
 ### * Explanation
-Above figures figure a and figure b says that, The remote having many features like Whenever user pressed remote button one time then all led's will be on along with locking of car doors , If user pressed remote button two times then all led's will be off along with unlocking of car doors. While pressing remote button three times then all led's shall be on in clockwise manner along with activation of alaram, If user pressed remote button four times then all led's will be off in anti-clockwise manner.
+Above figures figure a and figure b says that, The remote having many features like whenever user pressed remote button one time then all led's will be on along with locking of car doors , If user pressed remote button two times then all led's will be off along with unlocking of car doors. While pressing remote button three times then all led's shall be on in clockwise manner along with activation of alaram, If user pressed remote button four times then all led's will be off in anti-clockwise manner.
