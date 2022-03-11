@@ -27,10 +27,11 @@
 
 
 
-4. Test plans
+4. Test plans and Output
 
  * [4.1 High level test plan](#41-highlevel-testplan)
  * [4.2 Low level test plan](#42-lowlevel-testplan)
+ * [4.3 OUTPUT](#43-output)
  
 5. References
 
@@ -136,6 +137,12 @@ range and reliability.
 |LLT_2|Alarm Status|User button press Twice|All LED’s turn OFF.|All LED’s turn OFF|✅
 |LLT_3|Car battery status|User button press 3-times|All LED’s Turn ON clockwise.|All LED’s Turn ON clockwise|✅
 |LLT_4|Door Status|User button press 4-times|All LED’s turn ON anti-clockwise.|All LED’s turn ON anti-clockwise|✅
+
+# 4.3 OUTPUT
+
+## video
+
+https://user-images.githubusercontent.com/98537406/157967304-d1176b2e-955f-4e1e-96ee-181df999a406.mp4
 
 
 ---
