@@ -30,9 +30,6 @@
 
 5_References
 
-*  [5.1 On the Security of Remote Key Less Entry for Vehicles](#51- On-the-Security-of-Remote-Key-Less-Entryf-or-Vehicles)
-
-
 ---
 
 
