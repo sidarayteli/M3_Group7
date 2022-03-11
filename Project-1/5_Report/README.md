@@ -45,7 +45,8 @@
 * It shall activate approach light for Four User Button Clicks Whenever user press remote button four times that time all led on in anti-clockwise manner
 
 ## 1.3 SWOT Analysis
-put swot here
+![image](https://user-images.githubusercontent.com/46954351/157859918-b541e40f-b350-4776-9f7b-7c13800b71da.png)
+
 
 
  ## 1.4 5W 1H
