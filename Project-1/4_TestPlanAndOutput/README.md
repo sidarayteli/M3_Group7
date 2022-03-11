@@ -1,4 +1,5 @@
-# 1.1 High Level Requirements Test Plan
+# 1 Test Plan
+## 1.1 High Level Requirements Test Plan
 ---
 
 |Test ID | Description | Input | Expected Output | Actual Output | Status|
@@ -9,7 +10,7 @@
 | HLR4 | Device shall be provided with wireless light activation and Deactivation | User button press | Approach lights on | Approach lights on |  |
 
 
-# 1.2 LOW Level Requirements Test Plan
+## 1.2 LOW Level Requirements Test Plan
 ---
 
 |Test ID | Description | Input | Expected Output | Actual Output | Status|
