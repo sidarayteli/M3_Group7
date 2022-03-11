@@ -5,7 +5,7 @@
 ![usecase](https://user-images.githubusercontent.com/46900710/157756709-9a374505-7248-4ed9-a677-273292f3a44b.JPG)
 
 ## 2.2 Behavioural Diagrams
-### 1.2.1 High Level Requirement Flowchart
+### 2.2.1 High Level Requirement Flowchart
 ![hlr](https://user-images.githubusercontent.com/46900710/157750487-4167fd57-70d2-4618-be12-004a04cfe271.JPG)
                         figure a
 
