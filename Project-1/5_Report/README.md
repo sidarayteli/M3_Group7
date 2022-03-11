@@ -5,7 +5,7 @@
 * [1.2 Objectives](#12-objectives)
 * [1.3 SWOT Analysis](#13-swot-analysis)
 * [1.4 5W 1H](#14-5w-1h)
-
+---
 2_Requirements
 
 * [2.1 Highlevel requirements](#21-highlevel-requirements)
