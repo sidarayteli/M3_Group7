@@ -12,6 +12,12 @@
 |TEST ID|DESCRIPTION|Input|Expected Output|Actual Output|Status|
 |-------|-----------|------|---------------|------------|------|
 |LLT_1|Window Status|User button press one’s|All LED turn ON|All LED turn ON|
+|LLT_2|Alarm Status|User button press Twice|All LED’s turn OFF.|All LED’s turn OFF|
+|LLT_3|Car battery status|User button press 3-times|All LED’s Turn ON clockwise.|All LED’s Turn ON clockwise|
+|LLT_4|Door Status|User button press 4-times|All LED’s turn ON anti-clockwise.|All LED’s turn ON anti-clockwise|
+
+
+
 
 
 
