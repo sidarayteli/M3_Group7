@@ -46,7 +46,7 @@ range and reliability.
 |HLR_1|Windows status (Open or closed) shall be displayed by using the Key-fob (Transmitter)|
 |HLR_2|Alarm status shall be displayed (Activate or deactivate)|
 |HLR_3|Car battery status information shall be displayed (Weather the Battery is Full or not)|
-|HLR_4|Door status shall be displayed (Open or closed)|
+|HLR_4|Door status shall be displayed (Lock or Unlock)|
 |HLR_5|System shall be bidirectional RKE (Bi-Com)|
 
 ## 2.2 Lowlevel requirements
