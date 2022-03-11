@@ -21,6 +21,7 @@
  * [3.2 Behavioural Diagrams](#32-behavioural-diagrams)
  * [3.2.1 High Level Requirement Flowchart](#321-high-level-requirement-flowchart)
  * [3.2.2 Low Level Requirement Flowchart](#322-low-level-requirement-flowchart)
+ * [3.3cBlock Diagram](#322-Block-Diagramt)
  
 4_Test plans
 
@@ -94,6 +95,10 @@ figure b
 ### * Explanation
 Above figures figure a and figure b says that, The remote having many features like whenever user pressed remote button one time then all led's will be on along with locking of car doors , If user pressed remote button two times then all led's will be off along with unlocking of car doors. While pressing remote button three times then all led's shall be on in clockwise manner along with activation of alaram, If user pressed remote button four times then all led's will be off in anti-clockwise manner.
 
+
+### 3.3 Block Diagram
+
+![block](https://user-images.githubusercontent.com/46900710/157921516-bac2bff7-2ed0-499e-9c7c-7f4281737deb.JPG)
 ---
 ## 4 Test Plan
 
