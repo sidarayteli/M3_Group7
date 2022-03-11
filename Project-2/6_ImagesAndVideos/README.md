@@ -1,3 +1,11 @@
+## 1.4 SWOT Analysis 
+![SWOT_Bicom](https://user-images.githubusercontent.com/46900710/157823346-22f82eb1-e2c2-4ecb-a66d-7708bdf6b353.png)
+
+
+## 1.5 5W 1H
+![5W_1H](https://user-images.githubusercontent.com/46900710/157823406-81a07e0c-4a83-4760-ba16-98c8667c78e4.png)
+
+
 
 # 3 Architecture
 
