@@ -51,4 +51,7 @@ range and reliability.
 ![image](https://user-images.githubusercontent.com/46954351/157818376-077e6acb-bbcc-47ae-bf26-9a552518a048.png)
 
 
+## 5W's and 1H
+![image](https://user-images.githubusercontent.com/46954351/157818604-ac37547f-cf55-4cd3-9f25-69cd211b752e.png)
+
 
