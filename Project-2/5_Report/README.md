@@ -1,7 +1,7 @@
 # BiCom System
-
+---
 ## TABLE OF CONENTS
-
+---
 1_Description
 
 * [1.1 Abstract](#11-abstract)
@@ -10,14 +10,13 @@
 * [1.4 SWOT Analysis](#14-swot-analysis)
 * [1.5 5W 1H](#15-5w-1h)
 
----
 
 2_Requirements
 
 * [2.1 Highlevel requirements](#21-highlevel-requirements)
 * [2.2 Lowlevel requirements](#22-lowlevel-requirements)
 
----
+
 
 3. Architectures
 
@@ -26,7 +25,7 @@
  * [3.3 Low level requirements flow-chart](#33-lowlevel-requirement-flowchart)
  * [3.4 Low level Diagram](#34-low-level-diagram)
 
----
+
 
 4. Test plans
 
