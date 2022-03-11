@@ -25,6 +25,7 @@
 
 ## output image
 
+![OUTPUT](https://user-images.githubusercontent.com/98537406/157974112-d82fef8a-8e5d-4034-b2b2-bf73c57f7dda.PNG)
 
 
 ## Video
