@@ -18,4 +18,5 @@ Above figures figure a and figure b says that, The remote having many features l
 
 ### 2.3 Block Diagram
 
-![block](https://user-images.githubusercontent.com/46900710/157921006-765c2fd7-15ca-4332-81cb-3e69eceef6a1.JPG)
+![block](https://user-images.githubusercontent.com/46900710/157921516-bac2bff7-2ed0-499e-9c7c-7f4281737deb.JPG)
+
