@@ -26,7 +26,7 @@
  * [4.2 Lowlevel testplan](#42-lowlevel-testplan)
 
 ---
-5_Survey
+5_References
 
 
 
@@ -91,7 +91,7 @@ figure b
 Above figures figure a and figure b says that, The remote having many features like whenever user pressed remote button one time then all led's will be on along with locking of car doors , If user pressed remote button two times then all led's will be off along with unlocking of car doors. While pressing remote button three times then all led's shall be on in clockwise manner along with activation of alaram, If user pressed remote button four times then all led's will be off in anti-clockwise manner.
 
 ---
-## 4_Test Plan
+## 4 Test Plan
 
 ## 4.1 Highlevel testplan 
 
@@ -114,7 +114,7 @@ Above figures figure a and figure b says that, The remote having many features l
 
 ---
 
-## 5_Survey
+## 5 References 
 ##  5.1 On the Security of Remote Key Less Entry for Vehicles
 ### *  https://ieeexplore.ieee.org/xpl/conhome/8703707/proceeding
 ## 5.2 On Vehicular Security for RKE and Cryptographic Algorithms
