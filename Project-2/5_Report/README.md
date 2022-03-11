@@ -4,27 +4,27 @@
 
 1_Description
 
-* [Abstract](#abstract)
-* [Features](#features)
-* [SWOT Analysis](#swot-analysis)
-* [ 5W 1H](#5w-1h)
+1.1 [Abstract](#abstract)
+1.2 [Features](#features)
+1.3 [SWOT Analysis](#swot-analysis)
+1.4 [ 5W 1H](#5w-1h)
 
 2_Requirements
 
-* [ Highlevel requirements](#highlevel-requirements)
-*  [Lowlevel requirements](#lowlevel-requirements)
+2.1 [ Highlevel requirements](#highlevel-requirements)
+2.2  [Lowlevel requirements](#lowlevel-requirements)
 
 
 3. Architectures
 
- * [Usecase Diagram](#usecase-diagram)
- * [Flow-Chart](#flowchart)
- * [Low level requirements flow-chart](#lowlevel-requirement-flowchart)
+ 3.1 [Usecase Diagram](#usecase-diagram)
+ 3.2 [Flow-Chart](#flowchart)
+ 3.3 [Low level requirements flow-chart](#lowlevel-requirement-flowchart)
 
 4. Test plans
 
- * [High level test plan](#highlevel-testplan)
- * [Low level test plan](#lowlevel-testplan)
+ 4.1 [High level test plan](#highlevel-testplan)
+ 4.2 [Low level test plan](#lowlevel-testplan)
 
 
 
