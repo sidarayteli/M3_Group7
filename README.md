@@ -14,4 +14,6 @@ Module-3 ARM Based Microcontroller
 |2_Requirements|Highlevel requirement,Lowlevel requirement|
 |3_Architecture|Use case diagram,flowchart,structural diagram,Lowlevel requirement flowchart,Highlevel requirement flowchart|
 |4_Testplan and output|Highlevel testplan anad lowlevel testplan|
-|5_
+|5_Report|Described about what is done in this project|
+|6_ImagesAndVideos|Captured outputs|
+|7_others|References|
