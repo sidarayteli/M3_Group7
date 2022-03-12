@@ -12,5 +12,6 @@ Module-3 ARM Based Microcontroller
 |-------|----------|------------|
 |1_Description|Abstarct,SWOT analysis,5W 1H|
 |2_Requirements|Highlevel requirement,Lowlevel requirement|
-|3_Architecture|
-                
+|3_Architecture|Use case diagram,flowchart,structural diagram,Lowlevel requirement flowchart,Highlevel requirement flowchart|
+|4_Testplan and output|Highlevel testplan anad lowlevel testplan|
+|5_
