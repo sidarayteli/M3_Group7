@@ -185,6 +185,7 @@ int main(void)
 	GPIO_Handle_t GpioLed, GPIOBtn; 							//Initialising variables for led and blue switch
 
 Setup for LEDs
+// By Sidaray Teli Start
 
 ```
 GpioLed.pGPIOx = GPIOD;
@@ -246,8 +247,10 @@ Setup for Blue Switch
 }
 
 ```
-Encryption for window function
+//end
 
+Encryption for window function
+// By Meghana D H start
 ```
 void pw(void)
 {
@@ -322,9 +325,12 @@ void pw_4(void)
 
 		}
 }
-```
-Window function for window status
 
+```
+//end
+
+Window function for window status
+//By M Banu prakash reddy start
  ```
 void window(void)
 {
@@ -394,6 +400,8 @@ void door(void)
 }
 
 ```
+//end
+
 ---
 
 ## 5 References
