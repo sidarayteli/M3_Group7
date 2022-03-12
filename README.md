@@ -1,5 +1,7 @@
 # M3_Group7
 Module-3 ARM Based Microcontroller
+[![Codacy Security Scan](https://github.com/sidarayteli/M3_Group7/actions/workflows/codacy.yml/badge.svg)](https://github.com/sidarayteli/M3_Group7/actions/workflows/codacy.yml)
+
 ## Group7
 | Sl No | Names |PS Number |
 | ------ | ---------- | ----------- |
